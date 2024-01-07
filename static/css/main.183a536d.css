@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.mainbox{height:100vh;width:100v}.Appbox,.mainbox{align-items:center;display:flex;justify-content:center}.Appbox{background-image:linear-gradient(to left top,#9b9bf0,#e1e1ed);border:2px solid #000;flex-direction:column;height:500px;row-gap:50px;width:500px}.input{margin:10px;text-align:center}.btn,.container,.input{padding:10px}.container{background-color:#fff}
+/*# sourceMappingURL=main.183a536d.css.map*/
